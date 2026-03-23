@@ -1,0 +1,9 @@
+# Frontend specific ignores (most are covered by root .gitignore)
+
+# Next.js
+.next/
+out/
+
+# TypeScript
+*.tsbuildinfo
+next-env.d.ts
